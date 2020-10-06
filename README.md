@@ -10,3 +10,18 @@ Focando principalmente em reagir com a DOM e entende-la melhor, por isso não é
 - HTML
 - CSS
 - Javascript
+
+## Projeto 🎮
+Você pode dar um fork no repositório e baixar livremente.
+
+Se quiser testar ele estará online no [**neste link**](https://fernandoweiss.000webhostapp.com/flappy-web/).
+
+⚡️ meu maior score foi 5 haha 
+
+## Licença 📜
+[MIT](https://www.google.com/search?sxsrf=ALeKk03K6w3Rtqy2tsfqlT6ZGheO4rdXaQ%3A1602015941177&ei=xdJ8X5q8Crq55OUPgpuv2As&q=licen%C3%A7a+mit&oq=licen%C3%A7a+mit&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADIGCAAQFhAeOgQIIxAnOggIABCxAxCDAToFCAAQsQM6BQguELEDOgIILjoECC4QJzoICC4QsQMQgwE6CAguELEDEJMCOgQIABANOgYIABANEAo6BAgAEAo6BwgAEEYQ-QFQ7fsFWOerBmD_rAZoB3AAeACAAcoBiAHiFJIBBjAuMTcuMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwjasuS45qDsAhW6HLkGHYLNC7sQ4dUDCA0&uact=5)
+
+
+
+
+
